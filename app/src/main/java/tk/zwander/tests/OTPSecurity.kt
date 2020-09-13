@@ -38,7 +38,7 @@ import kotlin.collections.ArrayList
 fun main() {
     //Replace "YOUR_KEY_HERE" with the key
     //displayed in the app.
-    generatePasswords("YOUR_KEY_HERE")
+    println(generatePasswords("YOUR_KEY_HERE"))
 }
 
 /**
